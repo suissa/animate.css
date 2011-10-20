@@ -64,5 +64,6 @@
 	-webkit-animation-name: rollOut;
 	-moz-animation-name: rollOut;
 	-ms-animation-name: rollOut;
+	-o-animation-name: rollOut;
 	animation-name: rollOut;
 }
